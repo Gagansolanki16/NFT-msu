@@ -11,6 +11,8 @@ node_modules
 
 # eslint
 .eslintcache
+submission.ps1
+/submission.ps1
 
 # misc
 .DS_Store
